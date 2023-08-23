@@ -10,4 +10,7 @@ Write a terraform script to create resources mentioned below :
 
 Please run the terraform script and attach the screenshot of the Output.
 
-Execution Result video  : https://youtu.be/HCCCpKfMDbg
+Execution Result video  : 
+
+[<img src="https://img.youtube.com/vi/HCCCpKfMDbg/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/HCCCpKfMDbg)
