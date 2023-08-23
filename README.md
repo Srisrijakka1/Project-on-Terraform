@@ -10,3 +10,4 @@ Write a terraform script to create resources mentioned below :
 
 Please run the terraform script and attach the screenshot of the Output.
 
+Execution Result video  : https://youtu.be/HCCCpKfMDbg
