@@ -14,3 +14,17 @@ Execution Result video  :
 
 [<img src="https://img.youtube.com/vi/HCCCpKfMDbg/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/HCCCpKfMDbg)
+
+Results:
+
+![image](https://github.com/Srisrijakka1/Project-on-Terraform/assets/106643865/5aacfdd8-c6a1-4bf5-8471-e6bb68169c08)
+
+![image](https://github.com/Srisrijakka1/Project-on-Terraform/assets/106643865/1dc250af-14c6-4d67-8bb4-5bd4184a94c8)
+
+![image](https://github.com/Srisrijakka1/Project-on-Terraform/assets/106643865/ceb7d311-c514-4ac1-9956-7b85b4ca4d2a)
+
+![image](https://github.com/Srisrijakka1/Project-on-Terraform/assets/106643865/950ee235-61ba-4ddc-adbf-052d59cd29d7)
+
+![image](https://github.com/Srisrijakka1/Project-on-Terraform/assets/106643865/d7c9f2a1-7ac0-4ad0-aee0-eeb46598f502)
+
+![image](https://github.com/Srisrijakka1/Project-on-Terraform/assets/106643865/e726679a-d9c3-4b80-9b3f-a82d11772075)
